@@ -6,10 +6,8 @@ function ClientTestimonial({ name, img, quote, title }) {
       <img src={img} alt="Profile Picture" />
       <figcaption>
         <blockquote>{quote}</blockquote>
-        <cite>
-          <p className="name">{name}.</p>
-          <p className="job-title">{title}</p>
-        </cite>
+        <cite className="name">{name}.</cite>
+        <cite className="job-title">{title}</cite>
       </figcaption>
     </figure>
   )
