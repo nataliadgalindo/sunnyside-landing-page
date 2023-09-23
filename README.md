@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/sunnysidescreeshot.jpeg)
+![](/public/sunnysidescreeshot.jpeg)
 
 ### Links
 
