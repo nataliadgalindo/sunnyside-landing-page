@@ -7,6 +7,7 @@ function ClientTestimonial({ name, img, quote, title }) {
       <figcaption>
         <blockquote>{quote}</blockquote>
         <cite className="name">{name}.</cite>
+        <br />
         <cite className="job-title">{title}</cite>
       </figcaption>
     </figure>
